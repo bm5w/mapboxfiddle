@@ -1,0 +1,199 @@
+{
+    "features": [
+        {
+            "id": 1,
+            "geometry": {
+                "coordinates": [
+                    -97.397046,
+                    26.092116
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "hasAuto": true,
+                "hasGas": false,
+                "hasSolar": false,
+                "Estimated": false,
+                "Description": "Test1",
+                "hasSwitch": true,
+                "hasPhaseShifting": false,
+                "hasCoal": false,
+                "hasHydro": false,
+                "hasOther": false,
+                "hasWind": true,
+                "hasReactor": true,
+                "hasNuclear": false,
+                "Object": "Substation",
+                "hasBreaker": true,
+                "hasLoad": true,
+                "hasSynchCond": false,
+                "hasCapacitor": true,
+                "hasDCTIE": false,
+                "hasSVC": false
+            },
+            "type": "Feature"
+        },
+        {
+            "id": 2,
+            "geometry": {
+                "coordinates": [
+                    -98.469743,
+                    28.700168
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "hasAuto": true,
+                "hasGas": false,
+                "hasSolar": false,
+                "Estimated": false,
+                "hasSwitch": true,
+                "hasPhaseShifting": false,
+                "hasCoal": false,
+                "hasHydro": false,
+                "hasOther": false,
+                "hasWind": false,
+                "hasReactor": false,
+                "hasNuclear": false,
+                "Object": "Substation",
+                "hasBreaker": true,
+                "hasLoad": false,
+                "hasSynchCond": false,
+                "hasCapacitor": false,
+                "hasDCTIE": false,
+                "hasSVC": false
+            },
+            "type": "Feature"
+        },
+        {
+            "id": 3,
+            "geometry": {
+                "coordinates": [
+                    -97.192429,
+                    28.382071
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "hasAuto": false,
+                "hasGas": false,
+                "hasSolar": false,
+                "Estimated": false,
+                "hasSwitch": true,
+                "hasPhaseShifting": false,
+                "hasCoal": false,
+                "hasHydro": false,
+                "hasOther": false,
+                "hasWind": false,
+                "hasReactor": false,
+                "hasNuclear": false,
+                "Object": "Substation",
+                "hasBreaker": false,
+                "hasLoad": true,
+                "hasSynchCond": false,
+                "hasCapacitor": false,
+                "hasDCTIE": false,
+                "hasSVC": false
+            },
+            "type": "Feature"
+        },
+        {
+            "id": 4,
+            "geometry": {
+                "coordinates": [
+                    -98.830312,
+                    27.435391
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "hasAuto": false,
+                "hasGas": false,
+                "hasSolar": false,
+                "Estimated": false,
+                "hasSwitch": true,
+                "hasPhaseShifting": false,
+                "hasCoal": false,
+                "hasHydro": false,
+                "hasOther": false,
+                "hasWind": false,
+                "hasReactor": false,
+                "hasNuclear": false,
+                "Object": "Substation",
+                "hasBreaker": true,
+                "hasLoad": true,
+                "hasSynchCond": false,
+                "hasCapacitor": false,
+                "hasDCTIE": false,
+                "hasSVC": false
+            },
+            "type": "Feature"
+        },
+        {
+            "id": 5,
+            "geometry": {
+                "coordinates": [
+                    -98.080443,
+                    26.234092
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "hasAuto": false,
+                "hasGas": false,
+                "hasSolar": false,
+                "Estimated": false,
+                "hasSwitch": true,
+                "hasPhaseShifting": false,
+                "hasCoal": false,
+                "hasHydro": false,
+                "hasOther": false,
+                "hasWind": false,
+                "hasReactor": false,
+                "hasNuclear": false,
+                "Object": "Substation",
+                "hasBreaker": true,
+                "hasLoad": true,
+                "hasSynchCond": false,
+                "hasCapacitor": false,
+                "hasDCTIE": false,
+                "hasSVC": false
+            },
+            "type": "Feature"
+        },
+        {
+            "id": 6,
+            "geometry": {
+                "coordinates": [
+                    -97.642766,
+                    26.143512
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "hasAuto": true,
+                "hasGas": false,
+                "hasSolar": false,
+                "Estimated": false,
+                "Description": "La Palma",
+                "hasSwitch": true,
+                "hasPhaseShifting": false,
+                "hasCoal": false,
+                "hasHydro": false,
+                "hasOther": false,
+                "hasWind": false,
+                "hasReactor": true,
+                "hasNuclear": false,
+                "Object": "Substation",
+                "hasBreaker": true,
+                "hasLoad": true,
+                "hasSynchCond": false,
+                "hasCapacitor": true,
+                "hasDCTIE": false,
+                "hasSVC": false
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
